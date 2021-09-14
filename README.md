@@ -4,11 +4,11 @@ This github page contains all the Vocoding methods we tested for both Icelandic 
 
 - Mixed-Excitation-Based Vocoders 
   - Channel vocoder
-   - STRAIGHT
-   - WORLD 
+    - STRAIGHT
+    - WORLD 
   - Phase vocoder 
-  - Griffin-Lim
-  - MagPhase
+    - Griffin-Lim
+    - MagPhase
 - Neural Vocoders
   - WaveNet
   - LPCNet
