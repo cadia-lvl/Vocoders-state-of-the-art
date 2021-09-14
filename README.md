@@ -12,4 +12,4 @@ This github page contains all the Vocoding methods we tested for both Icelandic 
 * Glottal-Excitation-Based Vocoders 
 * Sinusoidal Vocoders 
 
-![plot](.)
+![taxonomy](./img/newtaxonomy.png)
