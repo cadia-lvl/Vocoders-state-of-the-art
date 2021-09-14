@@ -81,7 +81,7 @@ Source:
 Code:
 [WaveNet, written in python and PyTorch](https://github.com/r9y9/wavenet_vocoder)
 
-## WaveNet
+## LPCNet
 
 __Abstract__
 
