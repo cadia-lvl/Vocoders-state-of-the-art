@@ -16,4 +16,5 @@ This github page contains all the Vocoding methods we tested for both Icelandic 
 - Sinusoidal Vocoders 
 
 ![taxonomy](./img/newtaxonomy.png)
+
 _Coprehensive taxonomy of speech coders based on different vocoding schemes._
